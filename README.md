@@ -1,8 +1,8 @@
 # DSA 2050 - Week 6 Guided Practical Lab: Regression and Baseline Comparison
 
 **Student Name:** Victor Apamo
-**Student ID:** [Your Student ID]
-**Lecturer:** Austin Odera
+**Student ID:** 673804
+
 
 ## Lab Objective
 This lab builds and evaluates regression models that estimate `Sales_KES` from business characteristics (advertising spend, store visits, discount percentage, region, customer segment and product category) using a 320-row sales dataset. It compares simple baselines against Linear Regression, Ridge Regression and a shallow Decision Tree using MAE, RMSE and R², with leakage-safe preprocessing pipelines, training-only 5-fold cross-validation, residual analysis, customer-segment error checks and overfitting checks, and ends with a deployment recommendation and limitations.
